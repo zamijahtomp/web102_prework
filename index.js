@@ -17,6 +17,10 @@ function deleteChildElements(parent) {
     }
 }
 
+let x=10;
+let y=4
+console.log("The answer to ${x} + ${y} is ${x+y}");
+
 /*****************************************************************************
  * Challenge 3: Add data about each game as a card to the games-container
  * Skills used: DOM manipulation, for loops, template literals, functions
